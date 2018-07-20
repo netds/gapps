@@ -1,4 +1,5 @@
-http://netds.github.io/gapps/
-http://netds.github.io/gapps/stylesheets/print.css
-https://github.com/netds/gapps/tree/gh-pages
+http://netds.github.io/gapps/index.html
+http://netds.github.io/gapps/urls.txt
+#http://netds.github.io/gapps/stylesheets/print.css
+#https://github.com/netds/gapps/tree/gh-pages
 http://netds.github.io/gapps/data/bitly/v1-data.js
